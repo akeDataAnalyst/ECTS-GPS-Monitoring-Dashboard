@@ -8,7 +8,7 @@
 ## Description
 This project a complete real-time GPS monitoring system, modeled after their Electronic Cargo Tracking System (ECTS).
 
-The solution provides end-to-end capabilities for monitoring company-owned and subcontracted fuel tankers, detecting irregularities, and generating actionable insights. It includes four structured phases — from realistic data generation to an interactive Streamlit dashboard — demonstrating full-cycle telematics monitoring.
+The solution provides end-to-end capabilities for monitoring company-owned and subcontracted fuel tankers, detecting irregularities, and generating actionable insights. It includes four structured phases - from realistic data generation to an interactive Streamlit dashboard - demonstrating full-cycle telematics monitoring.
 
 ---
 
