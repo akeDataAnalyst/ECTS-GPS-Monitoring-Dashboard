@@ -1,4 +1,4 @@
-# NOC Real-Time Fleet & Tanker Monitoring Dashboard
+# Real-Time Fleet & Tanker Monitoring Dashboard
 [![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://ects-gps-monitoring-dashboard-4dsht9vtx3yiyqcencfspb.streamlit.app/)
 
 ## ECTS-Style GPS Monitoring & Alert System 
@@ -41,7 +41,7 @@ The system uses industry-standard columns (odometer, valve_status, ignition_stat
 
 ---
 
-## Recommendation to NOC
+## Recommendation
 I recommend implementing a similar real-time GPS monitoring platform as the core tool in NOC’s GPS Control Center. Key benefits include:
 
 - **Immediate Operational Gains**:
