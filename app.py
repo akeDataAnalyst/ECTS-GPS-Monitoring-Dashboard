@@ -26,7 +26,7 @@ sys.path.append(str(project_root))
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv('../data/processed/noc_telematics_with_alerts_final.csv')
+    df = pd.read_csv('noc_telematics_with_alerts_final.csv')
     df['timestamp'] = pd.to_datetime(df['timestamp'])
     return df
 
